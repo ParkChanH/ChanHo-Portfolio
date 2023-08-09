@@ -1,6 +1,7 @@
 # 박찬호의 이력서
 
-![프로필 이미지](https://cdn.discordapp.com/attachments/1061488282325766220/1123141616077635634/KakaoTalk_Image_2023-06-27-15-41-30.jpeg)
+<img src="https://cdn.discordapp.com/attachments/1061488282325766220/1123141616077635634/KakaoTalk_Image_2023-06-27-15-41-30.jpeg" width="300" height="350" alt="박찬호 프로필 사진">
+
 
 ## 개인 정보 📝
 
